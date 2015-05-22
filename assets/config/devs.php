@@ -374,7 +374,7 @@ return array (
  
   array (
     'name' => 'Phil Sturgeon',
-    'desc' => 'PHP-FIG founder',
+    'desc' => 'League member',
     'twitter' => 'philsturgeon',
   ),
  
