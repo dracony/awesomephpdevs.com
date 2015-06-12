@@ -557,4 +557,10 @@ return array (
     'desc' => 'Author of BEAR.Sunday & Ray.DI',
     'twitter' => 'koriym',
   ),
+  
+  array (
+    'name' => 'Florian Wartner',
+    'desc' => 'Creator of Laramap.com',
+    'twitter' => 'fwartner',
+  ),
 );
