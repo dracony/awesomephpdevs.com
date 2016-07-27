@@ -565,14 +565,26 @@ return array (
   ),
   
   array(
-    'name' => 'Jakub Zalas'
-    'desc' => 'A Symfony maintainer',
+    'name' => 'Jakub Zalas',
+    'desc' => 'Symfony2 core developer',
     'twitter' => 'jakub_zalas',
   ),
   
   array(
     'name' => 'Ciaran McNulty',
-    'desc' => 'Lead Maintainer of PHPSpec'
+    'desc' => 'Lead Maintainer of PHPSpec',
     'twitter' => 'CiaranMcNulty',
+  ),
+
+  array(
+    'name' => 'Christophe Coevoet',
+    'desc' => 'Symfony2 core developer',
+    'twitter' => 'Stof70',
+  ),
+
+  array(
+    'name' => 'Marcello Duarte',
+    'desc' => 'Co-creator of PHPSpec',
+    'twitter' => '_md',
   ),
 );
