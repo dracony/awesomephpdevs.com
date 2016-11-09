@@ -222,7 +222,13 @@ return array (
     'desc' => 'Laravel contributor',
     'twitter' => 'grahamjcampbell',
   ),
-
+  
+  array (
+    'name' => 'Guilherme Blanco',
+    'desc' => 'Core, Doctrine, etc contributor',
+    'twitter' => 'guilhermeblanco',
+  ),
+  
   array (
     'name' => 'Hannes Magnusson',
     'desc' => 'PHP Core contributor',
