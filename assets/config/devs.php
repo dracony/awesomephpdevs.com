@@ -575,4 +575,10 @@ return array (
     'desc' => 'Lead Maintainer of PHPSpec'
     'twitter' => 'CiaranMcNulty',
   ),
+  
+  array(
+    'name' => 'Sumanta Kundu',
+    'desc' => 'PHP Developer',
+    'twitter' => 'sumantafreelan',
+  )
 );
